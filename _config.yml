@@ -109,3 +109,7 @@ deploy:
 
 sitemap:
   path: sitemap.xml
+
+nofollow:
+  enable: true
+  field: site
